@@ -1,4 +1,4 @@
-# jokenpo
+# jokenpo 1.1
 
 Algumas opções adicionadas:
 - Agora é possível escolher o nome do player.
